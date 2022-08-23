@@ -1,0 +1,25 @@
+{
+    "name": "laravel/phpquery"
+    ,"type": "library"
+    ,"description": "phpQuery for Laravel PHP 8"
+    ,"version": "1.0"
+    ,"keywords": []
+    ,"homepage": "http://code.google.com/p/phpquery/"
+    ,"license": "MIT"
+    ,"authors": [
+
+         {
+             "name": "IQX"
+             ,"role": "Packager, maintainer"
+             ,"homepage": "https://github.com/iqxru/laravel-phpquery"
+        }
+
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+
+    "autoload": {
+        "classmap": ["phpquery/"]
+    }
+}
